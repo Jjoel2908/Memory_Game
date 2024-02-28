@@ -7,8 +7,8 @@ Este proyecto consiste en un juego de memoria implementado en React, donde los u
 
 ### Ilustraciones
 
-***Home***
-![](https://github.com/Jjoel2908/Memory_Game/blob/master/memory_game1.jpg)
+***Juego de Memoria***
+![](https://github.com/Jjoel2908/Memory_Game/blob/master/memory_game1.png)
 
-***Titulo de Quiz***
-![](https://github.com/Jjoel2908/Memory_Game/blob/master/memory_game2.jpg)
+***Modal de Juego Completo***
+![](https://github.com/Jjoel2908/Memory_Game/blob/master/memory_game2.png)
